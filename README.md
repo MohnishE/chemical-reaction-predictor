@@ -41,6 +41,8 @@ pip install streamlit pandas numpy scikit-learn matplotlib
 
 3. Install the required dependencies:
    ```bash
+   python3 -m venv RSP
+   source RSP/bin/activate
    pip install -r requirements.txt
    ```
 
