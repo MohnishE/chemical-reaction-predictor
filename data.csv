@@ -1,0 +1,101 @@
+Reactant_1,Reactant_2,Reactant_3,Reaction_Type,Product,By_Product_1,By_Product_2,Conditions
+Acetone,Propane,,Reduction,Hydrogen peroxide,Methane,Chloride,Pressure
+Acetone,Hydrogen,,Hydrolysis,Phenol,Carbon monoxide,Oxygen,Heat
+Acetone,Ethanol,,Substitution,Carbon dioxide,Methane,,Catalyst
+Ethanol,Ethanol,,Polymerization,Water,Chloride,,Room Temperature
+Methanol,Ethanol,Propane,Substitution,Hydrogen peroxide,Carbon monoxide,Carbon monoxide,Pressure
+Oxygen,Oxygen,Methanol,Addition,Hydrogen peroxide,Oxygen,,Catalyst
+Oxygen,Methanol,,Substitution,Ethylene,Carbon monoxide,,UV Light
+Methanol,Methanol,Toluene,Polymerization,Phenol,Chloride,Water,Heat
+Hydrogen,Propane,,Elimination,Hydrogen peroxide,Carbon monoxide,Methane,Room Temperature
+Hydrogen,Acetone,Propane,Hydrolysis,Hydrogen peroxide,Oxygen,,Room Temperature
+Toluene,Ammonia,Propane,Addition,Phenol,Carbon monoxide,,Pressure
+Ammonia,Hydrogen,Ethanol,Substitution,Phenol,Methane,Oxygen,Catalyst
+Ethanol,Acetone,,Addition,Carbon dioxide,Carbon monoxide,Chloride,Pressure
+Ammonia,Ammonia,,Addition,Ethylene,Chloride,,Room Temperature
+Ammonia,Hydrogen,,Substitution,Acetaldehyde,Carbon monoxide,Methane,Catalyst
+Propane,Acetone,,Reduction,Carbon dioxide,Chloride,,UV Light
+Propane,Ethanol,,Oxidation,Hydrogen peroxide,Water,,UV Light
+Ethanol,Propane,,Elimination,Water,Carbon monoxide,,Heat
+Ethanol,Benzene,,Elimination,Hydrogen peroxide,Chloride,,Room Temperature
+Propane,Benzene,Acetone,Reduction,Water,Carbon monoxide,,Heat
+Propane,Methanol,,Addition,Phenol,Hydrogen,,Heat
+Ammonia,Hydrogen,,Elimination,Methanol,Carbon monoxide,,UV Light
+Ethanol,Oxygen,,Reduction,Carbon dioxide,Carbon monoxide,,Room Temperature
+Ethanol,Oxygen,,Hydrolysis,Acetaldehyde,Carbon monoxide,Water,Catalyst
+Benzene,Oxygen,,Elimination,Ethylene,Hydrogen,Methane,Pressure
+Acetone,Hydrogen,,Hydrolysis,Phenol,Chloride,Oxygen,Pressure
+Hydrogen,Methanol,,Addition,Carbon dioxide,Hydrogen,Carbon monoxide,Pressure
+Propane,Hydrogen,,Oxidation,Carbon dioxide,Hydrogen,,UV Light
+Oxygen,Ethanol,,Addition,Acetaldehyde,Chloride,Carbon monoxide,Heat
+Oxygen,Propane,,Oxidation,Ethylene,Chloride,Carbon monoxide,Catalyst
+Acetone,Ammonia,,Polymerization,Acetaldehyde,Water,Water,Heat
+Propane,Ethanol,,Elimination,Water,Methane,,Pressure
+Ammonia,Ethanol,,Oxidation,Hydrogen peroxide,Chloride,,Pressure
+Acetone,Propane,Ammonia,Oxidation,Ethylene,Water,Water,Pressure
+Ammonia,Hydrogen,Oxygen,Reduction,Acetaldehyde,Oxygen,,UV Light
+Benzene,Oxygen,Hydrogen,Elimination,Carbon dioxide,Oxygen,,Room Temperature
+Ammonia,Propane,,Oxidation,Methanol,Hydrogen,Carbon monoxide,UV Light
+Toluene,Ammonia,Propane,Substitution,Carbon dioxide,Oxygen,Oxygen,Room Temperature
+Ammonia,Hydrogen,,Oxidation,Methanol,Carbon monoxide,,UV Light
+Propane,Benzene,Ammonia,Substitution,Methanol,Water,,Heat
+Acetone,Benzene,Toluene,Substitution,Phenol,Carbon monoxide,,UV Light
+Hydrogen,Toluene,Acetone,Addition,Phenol,Carbon monoxide,,Room Temperature
+Propane,Acetone,Ethanol,Substitution,Ethylene,Chloride,,Room Temperature
+Benzene,Methanol,,Polymerization,Methanol,Carbon monoxide,Hydrogen,Catalyst
+Ethanol,Acetone,Hydrogen,Polymerization,Methanol,Carbon monoxide,Water,Room Temperature
+Methanol,Ethanol,,Polymerization,Carbon dioxide,Chloride,Hydrogen,Room Temperature
+Oxygen,Acetone,,Substitution,Water,Chloride,Chloride,UV Light
+Methanol,Oxygen,,Addition,Hydrogen peroxide,Hydrogen,,Pressure
+Ammonia,Oxygen,,Elimination,Phenol,Water,,UV Light
+Ammonia,Hydrogen,,Elimination,Methanol,Oxygen,,Room Temperature
+Hydrogen,Propane,Methanol,Oxidation,Ethylene,Chloride,,Pressure
+Ammonia,Benzene,Acetone,Substitution,Phenol,Oxygen,Chloride,UV Light
+Acetone,Propane,Methanol,Reduction,Hydrogen peroxide,Methane,,Catalyst
+Toluene,Ammonia,,Substitution,Methanol,Carbon monoxide,Water,Room Temperature
+Hydrogen,Methanol,Methanol,Addition,Hydrogen peroxide,Water,,Room Temperature
+Oxygen,Methanol,Ammonia,Substitution,Ethylene,Carbon monoxide,,Room Temperature
+Ammonia,Acetone,,Reduction,Methanol,Carbon monoxide,Water,Heat
+Acetone,Ethanol,,Reduction,Water,Carbon monoxide,,Pressure
+Hydrogen,Methanol,Toluene,Polymerization,Acetaldehyde,Carbon monoxide,,Pressure
+Ethanol,Ammonia,,Addition,Ethylene,Hydrogen,Carbon monoxide,Room Temperature
+Acetone,Propane,Ammonia,Hydrolysis,Methanol,Hydrogen,Water,UV Light
+Toluene,Ammonia,Ethanol,Polymerization,Hydrogen peroxide,Chloride,,Heat
+Ethanol,Acetone,Ethanol,Elimination,Water,Chloride,Water,UV Light
+Methanol,Toluene,,Addition,Acetaldehyde,Water,,Room Temperature
+Ammonia,Oxygen,,Reduction,Phenol,Hydrogen,,Pressure
+Methanol,Oxygen,Hydrogen,Oxidation,Methanol,Water,Chloride,Room Temperature
+Oxygen,Methanol,Toluene,Elimination,Hydrogen peroxide,Chloride,Water,Pressure
+Benzene,Benzene,Propane,Reduction,Carbon dioxide,Carbon monoxide,Water,Catalyst
+Propane,Ethanol,Toluene,Elimination,Water,Carbon monoxide,Chloride,Heat
+Hydrogen,Toluene,,Addition,Ethylene,Carbon monoxide,,Room Temperature
+Hydrogen,Acetone,Oxygen,Elimination,Hydrogen peroxide,Chloride,,Room Temperature
+Ethanol,Benzene,Toluene,Oxidation,Water,Water,,UV Light
+Acetone,Toluene,,Reduction,Phenol,Hydrogen,,Pressure
+Propane,Propane,,Reduction,Phenol,Oxygen,Carbon monoxide,Pressure
+Toluene,Methanol,,Substitution,Methanol,Methane,,Catalyst
+Methanol,Toluene,,Reduction,Ethylene,Methane,Oxygen,Room Temperature
+Acetone,Ethanol,,Elimination,Carbon dioxide,Methane,Carbon monoxide,Pressure
+Methanol,Ethanol,,Hydrolysis,Water,Chloride,,Catalyst
+Ammonia,Benzene,,Elimination,Ethylene,Carbon monoxide,,Catalyst
+Methanol,Oxygen,Ethanol,Oxidation,Methanol,Carbon monoxide,,Room Temperature
+Methanol,Propane,,Oxidation,Ethylene,Chloride,,Room Temperature
+Acetone,Ethanol,,Reduction,Acetaldehyde,Oxygen,,UV Light
+Methanol,Methanol,,Polymerization,Carbon dioxide,Oxygen,,Catalyst
+Acetone,Ethanol,Hydrogen,Addition,Phenol,Chloride,Hydrogen,Heat
+Propane,Ammonia,,Polymerization,Ethylene,Hydrogen,,Heat
+Benzene,Toluene,,Addition,Ethylene,Oxygen,Water,Catalyst
+Benzene,Methanol,Benzene,Hydrolysis,Acetaldehyde,Oxygen,,Pressure
+Toluene,Ammonia,Oxygen,Addition,Phenol,Methane,Hydrogen,Heat
+Hydrogen,Ammonia,,Reduction,Phenol,Water,,UV Light
+Methanol,Propane,,Hydrolysis,Hydrogen peroxide,Hydrogen,,Room Temperature
+Oxygen,Ethanol,,Reduction,Methanol,Hydrogen,Oxygen,Room Temperature
+Hydrogen,Ammonia,,Polymerization,Ethylene,Carbon monoxide,Water,Heat
+Oxygen,Ammonia,Methanol,Elimination,Methanol,Oxygen,Methane,Heat
+Toluene,Methanol,Methanol,Substitution,Hydrogen peroxide,Hydrogen,Methane,Pressure
+Ammonia,Acetone,Methanol,Reduction,Hydrogen peroxide,Water,,Pressure
+Methanol,Methanol,Ethanol,Hydrolysis,Carbon dioxide,Methane,Oxygen,Pressure
+Ethanol,Methanol,,Elimination,Ethylene,Water,Carbon monoxide,Heat
+Propane,Toluene,Benzene,Addition,Water,Methane,,Catalyst
+Oxygen,Ethanol,Ammonia,Substitution,Hydrogen peroxide,Oxygen,Hydrogen,UV Light
+Oxygen,Ethanol,,Reduction,Hydrogen peroxide,Hydrogen,,Pressure
